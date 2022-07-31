@@ -1,7 +1,7 @@
 # bing_ads_api_sandbox_requests
 Use Microsoft Bing Ads API Sandbox to Request Campaign Performance Report.
 
-The Python Scripts in the repository are referenced from Microsoft Bing Ads API documentation linked below with a few changes for the custom requirements.
+The Python Scripts in the repository are referenced from Microsoft Bing Ads API documentations linked below with a few customized changes for the specific output.
 
 Resource Reference from Microsoft:
 
